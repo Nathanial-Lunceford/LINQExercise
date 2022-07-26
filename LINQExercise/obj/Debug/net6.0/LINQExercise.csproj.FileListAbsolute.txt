@@ -1,0 +1,15 @@
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\bin\Debug\net6.0\LINQExercise.exe
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\bin\Debug\net6.0\LINQExercise.deps.json
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\bin\Debug\net6.0\LINQExercise.runtimeconfig.json
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\bin\Debug\net6.0\LINQExercise.dll
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\bin\Debug\net6.0\LINQExercise.pdb
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\LINQExercise.csproj.AssemblyReference.cache
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\LINQExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\LINQExercise.AssemblyInfoInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\LINQExercise.AssemblyInfo.cs
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\LINQExercise.csproj.CoreCompileInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\LINQExercise.dll
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\refint\LINQExercise.dll
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\LINQExercise.pdb
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\LINQExercise.genruntimeconfig.cache
+C:\Users\Skinnysolids\Desktop\repos\LINQExercise\LINQExercise\obj\Debug\net6.0\ref\LINQExercise.dll
